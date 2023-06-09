@@ -1,6 +1,6 @@
-# OyenOnsen
+# Oyencov
 
 Attempting to develop a new way to measure test coverage.
 
-__Copyright 2022 Estimado Pte Ltd__
+__Copyright of Estimado Pte Ltd__
 
